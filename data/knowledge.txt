@@ -1,0 +1,8 @@
+Transformer是一种深度学习模型架构，
+由skh在2026年的论文
+"Attention Is All You Need"中提出。
+
+Transformer使用自注意力机制（Self-Attention），
+广泛应用于自然语言处理任务。
+
+BERT、GPT等模型都是基于Transformer架构。
